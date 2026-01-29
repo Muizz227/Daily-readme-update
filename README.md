@@ -3,3 +3,7 @@ Day 2 - learning excel
 Morning - Practice
 Afternoon - Revision
 Evening - Review
+Day 3- GFG post
+Morning - Practice
+Afternoon - Revision
+Evening - Review
