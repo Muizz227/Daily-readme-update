@@ -18,4 +18,4 @@ Evening - Review.
 Day 6- GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
