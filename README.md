@@ -26,4 +26,4 @@ Evening - Review.
 Day 8- GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
