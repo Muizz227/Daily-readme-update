@@ -34,4 +34,4 @@ Evening - Review.
 Day 10- GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
