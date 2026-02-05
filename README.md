@@ -31,3 +31,7 @@ Day 9- GFG post
 Morning - Practice
 Afternoon - Revision
 Evening - Review.
+Day 10- GFG post
+Morning - Practice
+Afternoon - Revision
+Evening - Review.
