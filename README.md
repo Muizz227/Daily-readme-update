@@ -42,4 +42,4 @@ Evening - Review.
 Day 12- GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
