@@ -51,3 +51,7 @@ Day 14- GFG post
 Morning - Practice
 Afternoon - Revision
 Evening - Review
+Day 15- GFG post
+Morning - Practice
+Afternoon - Revision
+Evening - Review
