@@ -59,3 +59,7 @@ Day 16-GFG post
 Morning - Practice
 Afternoon - Revision
 Evening - Review
+Day 17-GFG post
+Morning - Practice
+Afternoon - Revision
+Evening - Review
