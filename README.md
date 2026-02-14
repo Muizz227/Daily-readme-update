@@ -70,4 +70,4 @@ Evening - Review
 Day 19-GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review
+Evening - Review.
