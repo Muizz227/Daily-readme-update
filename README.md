@@ -74,4 +74,4 @@ Evening - Review.
 Day 20-GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
