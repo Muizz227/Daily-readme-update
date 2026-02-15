@@ -1,4 +1,4 @@
-Day 1 - Repository created
+hi Day 1 - Repository created
 Day 2 - learning excel
 Morning - Practice
 Afternoon - Revision
@@ -68,6 +68,10 @@ Morning - Practice
 Afternoon - Revision
 Evening - Review
 Day 19-GFG post
+Morning - Practice
+Afternoon - Revision
+Evening - Review.
+Day 20-GFG post
 Morning - Practice
 Afternoon - Revision
 Evening - Review.
