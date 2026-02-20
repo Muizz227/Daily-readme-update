@@ -82,4 +82,4 @@ Evening - Review.
 Day 22-GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
