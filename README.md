@@ -86,4 +86,4 @@ Evening - Review
 Day 23-GFG post
 Morning - Practice
 Afternoon - Revision
-Evening - Review.
+Evening - Review
